@@ -5,6 +5,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  background: rgba(33, 33, 33, 1);
+
+  background-image: url('https://firebasestorage.googleapis.com/v0/b/npesa-sandbox.appspot.com/o/cf_big_bg.webp?alt=media&token=a6dc3da2-f33e-4862-9ca7-dc4c10cf90f6');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 code {
